@@ -1,0 +1,477 @@
+repo_name: tonpublic/telegram-react
+report_id: a0a1fcf1cabbd39627f2208ed57d30cf
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-16T22:24:07+00:00'
+requested_by: usert321user
+provider: github
+branch: master
+detected_tools_count: 34
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/tonpublic/telegram-react
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tonpublic/telegram-react
+  detection_source: Repo Metadata
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-21 13:31:39.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-21 13:31:39.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tonpublic/telegram-react
+  detection_source: Repo Metadata
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 1.16.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-01 21:28:32.000000000 Z
+- name: Rollbar
+  description: Proactively discover, predict, and remediate errors.
+  website_url: https://rollbar.com/
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/328/default_3147629185038a15dd41907749544023633da1ea.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2018-08-03 17:57:15.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.28.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2018-02-21 20:47:50.000000000 Z
+- name: Lottie
+  description: Easily add high-quality animation to any native app (by Airbnb)
+  website_url: http://airbnb.design/lottie/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mobile Prototyping & Interaction Design Tools
+  image_url: https://img.stackshare.io/service/6445/lottie.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-01 21:28:32.000000000 Z
+- name: Recompose
+  description: A React utility belt
+  website_url: https://github.com/acdlite/recompose
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/7756/no-img-open-source.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-01-08 19:54:24.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-03-26 01:51:32.000000000 Z
+- name: i18next
+  description: Internationalization-framework written in and for JavaScript
+  website_url: https://www.i18next.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Translation Service
+  image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-03-26 02:13:33.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 3.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: "@material-ui/icons"
+  description: Material Design Svg Icons converted to Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/icons
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: "@material-ui/lab"
+  description: Material-UI Lab - Incubator for Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/lab
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18760/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: "@material-ui/styles"
+  description: Material-UI Styles - The styling solution of Material-UI
+  package_url: https://www.npmjs.com/@material-ui/styles
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17576/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2018-09-20 18:39:40.000000000 Z
+- name: dateformat
+  description: A node.js package for Steven Levithan's excellent dateFormat
+  package_url: https://www.npmjs.com/dateformat
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16480/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2018-05-17 12:48:39.000000000 Z
+- name: events
+  description: Node's event emitter for all engines
+  package_url: https://www.npmjs.com/events
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16435/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-03-26 01:51:32.000000000 Z
+- name: gh-pages
+  description: Publish to a gh-pages branch on GitHub
+  package_url: https://www.npmjs.com/gh-pages
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-01 21:28:32.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 1.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-03-26 01:51:32.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 8.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
+- name: localforage
+  description: Offline storage, improved
+  package_url: https://www.npmjs.com/localforage
+  version: 1.7.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17229/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-03-26 02:13:33.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2018-08-09 20:17:25.000000000 Z
+- name: react-custom-scrollbars
+  description: React scrollbars component
+  package_url: https://www.npmjs.com/react-custom-scrollbars
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18040/image.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-21 13:31:39.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-21 13:31:39.000000000 Z
+- name: react-i18next
+  description: Internationalization for react done right
+  package_url: https://www.npmjs.com/react-i18next
+  version: 10.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17777/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-21 13:31:39.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-21 13:31:39.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 2.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-21 13:31:39.000000000 Z
+- name: sanitize-html
+  description: Clean up user-submitted HTML
+  package_url: https://www.npmjs.com/sanitize-html
+  version: 1.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17508/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: tolyayanot
+  last_updated_on: 2019-06-22 15:41:16.000000000 Z
+  vulnerabilities:
+  - name: sanitize-html Information Exposure vulnerability
+    cve_id: CVE-2024-21501
+    cve_url: https://github.com/advisories/GHSA-rm97-x556-q36h
+    detected_date: Mar 2
+    severity: moderate
+    first_patched: 2.12.1
+  - name: Improper Input Validation in sanitize-html
+    cve_id: CVE-2021-26540
+    cve_url: https://github.com/advisories/GHSA-mjxr-4v3x-q3m4
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.3.2
+  - name: Improper Input Validation in sanitize-html
+    cve_id: CVE-2021-26539
+    cve_url: https://github.com/advisories/GHSA-rjqq-98f6-6j3r
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.3.1
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/tonpublic/telegram-react/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: evgeny-nadymov
+  last_updated_on: 2019-06-06 15:14:59.000000000 Z
